@@ -20,3 +20,9 @@
 
 ## graph result test highest-gpa
 ![graph test result](https://raw.githubusercontent.com/DhafinFK/exercise-profiling/main/ssan/graph_result_test3.png)
+
+itu deh pokoknya bang
+![img.png](img.png)
+
+![img_1.png](img_1.png)
+
